@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 22px 111px;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    width: 100%;
+    margin: 0px auto;
+    
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+.btn{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+
+#white{
+    background-color: white;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+#violet{
+    background-color: violet;
+}
+
+#black{
+    background-color: black;
+}
+
+
+.color-switcher{
+    text-align: right;
+}
